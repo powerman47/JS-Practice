@@ -1,5 +1,25 @@
 body{
-    margin : 0 auto;
-    padding: 0 auto;
+
     background: blueviolet;
+   
+}
+
+.container{
+    width: 960px;
+    margin-left : 0;
+    margin-right: 0;
+    
+}
+
+.logo{
+    height: 80px;
+    width: 100px;
+    padding-left: 160px;
+    padding-top: 30px;
+}
+
+.logo img{
+    height: 100%;
+    width: 100%;
+    box-shadow: 2px 2px 3px black
 }
